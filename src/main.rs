@@ -2,8 +2,8 @@
 
 mod p1_100;
 
-// change the following line to `use p1_100::p?::problem;` to run code
-use p1_100::p3::problem;
+/// Change this line to `use p1_100::p{x}::problem;` where x is the problem to run
+use p1_100::p4::problem;
 
 fn main() {
     problem();
