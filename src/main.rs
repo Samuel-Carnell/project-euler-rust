@@ -3,7 +3,7 @@
 pub mod p1_100;
 
 /// Change this line to `use p1_100::p{x}::problem;` where x is the problem to run
-use p1_100::p9::problem;
+use p1_100::p10::problem;
 
 fn main() {
     problem();
